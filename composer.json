@@ -1,0 +1,13 @@
+{
+    "name": "tsuna/copy-pro",
+    "description": "CopyPro",
+    "autoload": {
+        "psr-4": {
+            "Tsuna\\CopyPro\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

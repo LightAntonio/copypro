@@ -1,0 +1,1 @@
+<h1>Página da loja</h1>
